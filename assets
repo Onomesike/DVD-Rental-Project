@@ -1,1 +1,18 @@
-
+assets/
+│
+├── screenshots/
+│   ├── top_paying_customer.png
+│   ├── movies_not_offered.png
+│   ├── most_rented_movie_store1.png
+│   ├── store_profit.png
+│   ├── rented_movies.png
+│   ├── movies_rented_desc.png
+│   ├── movies_rented_asc.png
+│   ├── movies_not_rented.png
+│   ├── customers_not_rented.png
+│   ├── actors_movie_count.png
+│   ├── actors_more_than_20_movies.png
+│   ├── movies_in_both_stores.png
+│   └── movies_in_store1_not_store2.png
+│
+└── ERD.png
